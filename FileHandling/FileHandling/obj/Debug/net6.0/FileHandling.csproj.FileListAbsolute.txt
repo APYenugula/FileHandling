@@ -1,0 +1,15 @@
+C:\Users\ayenugula\source\repos\FileHandling\FileHandling\bin\Debug\net6.0\FileHandling.exe
+C:\Users\ayenugula\source\repos\FileHandling\FileHandling\bin\Debug\net6.0\FileHandling.deps.json
+C:\Users\ayenugula\source\repos\FileHandling\FileHandling\bin\Debug\net6.0\FileHandling.runtimeconfig.json
+C:\Users\ayenugula\source\repos\FileHandling\FileHandling\bin\Debug\net6.0\FileHandling.dll
+C:\Users\ayenugula\source\repos\FileHandling\FileHandling\bin\Debug\net6.0\FileHandling.pdb
+C:\Users\ayenugula\source\repos\FileHandling\FileHandling\obj\Debug\net6.0\FileHandling.csproj.AssemblyReference.cache
+C:\Users\ayenugula\source\repos\FileHandling\FileHandling\obj\Debug\net6.0\FileHandling.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ayenugula\source\repos\FileHandling\FileHandling\obj\Debug\net6.0\FileHandling.AssemblyInfoInputs.cache
+C:\Users\ayenugula\source\repos\FileHandling\FileHandling\obj\Debug\net6.0\FileHandling.AssemblyInfo.cs
+C:\Users\ayenugula\source\repos\FileHandling\FileHandling\obj\Debug\net6.0\FileHandling.csproj.CoreCompileInputs.cache
+C:\Users\ayenugula\source\repos\FileHandling\FileHandling\obj\Debug\net6.0\FileHandling.dll
+C:\Users\ayenugula\source\repos\FileHandling\FileHandling\obj\Debug\net6.0\refint\FileHandling.dll
+C:\Users\ayenugula\source\repos\FileHandling\FileHandling\obj\Debug\net6.0\FileHandling.pdb
+C:\Users\ayenugula\source\repos\FileHandling\FileHandling\obj\Debug\net6.0\FileHandling.genruntimeconfig.cache
+C:\Users\ayenugula\source\repos\FileHandling\FileHandling\obj\Debug\net6.0\ref\FileHandling.dll
